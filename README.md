@@ -93,7 +93,7 @@ ResponseEntity사용
 <br><br><br>
 
 
-## 인기페이지 구현
+## 좋아요순 인기페이지 구현
 ![image](https://user-images.githubusercontent.com/129291690/235377613-d5825dc5-da56-4a44-a362-e65563dcd7eb.png)
 
 
