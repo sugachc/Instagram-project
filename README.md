@@ -25,19 +25,12 @@ ResponseEntity사용
 <br><br>
 
 
-## 시큐리티 로그인처리
+## 시큐리티 로그인처리 & OAuth2 페이스북로그인
 
 ![image](https://user-images.githubusercontent.com/129291690/235376496-472f709c-c021-4a70-880d-bd9b307827a1.png)
 
 <br><br>
 
-## OAuth2 페이스북로그인
-![image](https://user-images.githubusercontent.com/129291690/235377160-24557738-088b-45a1-b635-3d1ea8d5c762.png)
-
-
-
-
-<br><br>
 
 
 ## 회원정보수정
@@ -72,7 +65,9 @@ ResponseEntity사용
 <br><br>
 
 ## 좋아요
-![image](https://user-images.githubusercontent.com/129291690/235377322-61a357d3-93e7-4be2-8d8f-54c357c103ed.png)
+![image](https://user-images.githubusercontent.com/129291690/235377906-42de65f6-7f56-408f-a587-05bc7fa26caf.png)
+
+
 
 <br><br>
 
@@ -84,6 +79,13 @@ ResponseEntity사용
 
 ### 프로필페이지
 ![image](https://user-images.githubusercontent.com/129291690/235377537-2419f23b-1e18-4c8e-8c95-49a24fbd1871.png)
+
+
+<br><br>
+
+
+## 프로필사진 변경
+![image](https://user-images.githubusercontent.com/129291690/235377934-e882a74b-205b-4e55-a03a-5edea87c9c67.png)
 
 
 <br><br>
