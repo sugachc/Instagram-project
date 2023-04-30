@@ -66,6 +66,9 @@ ResponseEntity사용
 
 ## 좋아요
 ![image](https://user-images.githubusercontent.com/129291690/235377906-42de65f6-7f56-408f-a587-05bc7fa26caf.png)
+<br>
+![image](https://user-images.githubusercontent.com/129291690/235377994-54993346-a671-4f33-a80b-3d98d9593013.png)
+
 
 
 
