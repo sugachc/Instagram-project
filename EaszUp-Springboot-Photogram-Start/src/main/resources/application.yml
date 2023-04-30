@@ -1,0 +1,51 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+    encoding:
+      charset: utf-8
+      enabled: true
+    
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+      
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/photogram?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false
+    username: cos
+    password: cos1234
+    
+  jpa:
+    open-in-view: true #false로 하면 오류남 세션이 컨트롤러단에서 종료됨. images 호출불가능해짐(대신 fetch.EAGER면 user갈때 가져오기때문들고올 수 있음) 
+    hibernate:
+      ddl-auto: update #create #서버를 재실행하면 insert한 데이터삭제,스키마를 새로 만들때는 create로
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+      
+  servlet:
+    multipart:
+      enabled: true 
+      max-file-size: 2MB   #맥스파일 사이즈제한
+
+  security:
+    user:
+      name: test
+      password: 1234   
+
+    oauth2:
+      client:
+        registration:
+          facebook:
+            client-id: 1586199898530380  
+            client-secret: 9b4a23ebc486bc95c7e3da52600f472a
+            scope:
+            - public_profile
+            - email
+
+file:
+ path: C:/webproject/springbootwork/upload/ #파일path
+#업로드 확장자체크 multifile 파일업로드 파일업로드 진행상황바! 
