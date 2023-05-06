@@ -3,10 +3,9 @@
 <br><br>
 
 
-
 <br><br>
 ## 🔥 프로젝트 목표
-스프링부트 시큐리티 JPA배운 내용들을 인스타클론코딩을 통해 적용해보는 것
+인스타그램 클론코딩 SNS 프로젝트
 
 스프링부트+JPA      
 AOP를 사용한 유효성 검사 자동화      
@@ -21,7 +20,7 @@ ResponseEntity사용
 
 ## ✨ 기술 스택
 
-Spring boot,mysql,JPA,ajax
+Spring boot,mysql,JPA,ajax,Spring security
 
 <br><br>
 # 🕹 프로젝트 주요 기능
