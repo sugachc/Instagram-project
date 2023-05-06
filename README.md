@@ -17,7 +17,7 @@ ResponseEntity사용
 
 
 ## ✨ 기술 스택
-![image](https://user-images.githubusercontent.com/129291690/236626021-d6332098-1392-479a-a9f1-6ca54f89fede.png)
+![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/129291690/236626301-36a00d96-375a-4252-86b9-5771d944534f.png)
 
 <br><br>
 # 🕹 프로젝트 주요 기능
