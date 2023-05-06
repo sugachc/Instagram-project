@@ -1,9 +1,6 @@
 # Instagram-project
 
-<br><br>
-
-
-<br><br>
+<br>
 ## 🔥 프로젝트 목표
 인스타그램 클론코딩 SNS 프로젝트
 
